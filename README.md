@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é Carlos Eduardo, estudante de Desenvolvimento de Sistemas!
+##  Olá, meu nome é Carlos Eduardo, estudante de Desenvolvimento de Sistemas!
 
 Atualmente estou construindo minha base em programação, lógica, banco de dados e desenvolvimento web. Aqui no GitHub compartilho meus estudos, projetos pessoais e exercícios feitos no SENAI.
 Busco evoluir como desenvolvedor e ganhar experiência criando soluções úteis e bem estruturadas.
